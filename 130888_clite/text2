@@ -1,0 +1,18 @@
+// a first program with
+// two comment lines
+/* aaaaa */
+int main() {
+	cout << 5+3;
+	
+	cin >> value1;
+	cout << value1;
+	
+	cin >> value2;
+	cout << value2;
+	
+	cin >> value3;
+	cout << value3;
+	
+	cin >> value4;
+	cout << value4;	
+}	// main
